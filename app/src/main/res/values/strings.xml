@@ -3,4 +3,7 @@
     <string name="hi_alex">Hi, Alex</string>
     <string name="avatar">Avatar</string>
     <string name="what_would_you_like_to_nlearn_today">What Would you like to\nlearn today?</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="see_all">See All</string>
+    <string name="todo">TODO</string>
 </resources>
